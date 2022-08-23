@@ -1,0 +1,12 @@
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Compiled binary addons
+build/
+
+# Dependency directories
+node_modules/
+
+# IDE files #
+#############
+.idea/*
